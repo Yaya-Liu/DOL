@@ -1,0 +1,691 @@
+#empl_status_table > tr :nth-child(0n+2) {  
+  /* your stuff here */
+  text-align: center;
+  padding: 8px;
+  color: #36639E;
+}
+#empl_status_table > tr > td:nth-child(0n+1) {  
+  /* your stuff here */
+  font-weight: bold;
+}
+
+.Title{
+	font-family: sans-serif;
+	color: cornflowerblue;
+	font-size: 20;
+	width: 70%;
+	font-weight:bold;
+	margin: auto;
+   
+}
+
+.Body{
+	width: 95%;
+	height: 100%;
+	margin:auto;
+}
+
+.jBlock{
+	margin: auto;
+	width: 95%;
+	border-style: solid;
+	border-width: 10px;
+	border-color: cornflowerblue;
+	background-color: cornflowerblue;
+}
+
+#mapDrop{
+	margin: auto;
+	width: 95%;
+	border-style: solid;
+	border-width: 10px;
+	border-color: cornflowerblue;
+	background-color: cornflowerblue;
+}
+
+#svgLine{
+	margin: auto;
+	width: 65%;
+	border-style: solid;
+	border-width: 10px;
+	border-color: cornflowerblue;
+	background-color: cornflowerblue;
+}
+
+table#table15 {
+    position: relative;
+	left: -85px;
+	font-size: 14.5px;
+}
+
+svg {
+    height: 926px;
+}
+
+p#turnover_rate_note {
+    position: relative;
+    left: 781px;
+    bottom: 13942px;
+	font-weight: bold;
+	font-size: 12px;
+
+}
+
+table#table6 {
+    position: relative;
+    bottom: -37px;
+}
+
+p#table6_footer {
+    position: relative;
+    bottom: -36px;
+}
+
+#span{
+	float: right
+}
+
+#map{
+	margin: auto;
+	width: 95vh;
+	border-style: solid;
+	
+	border-width: 1px;
+	
+}
+
+#md-map{
+	margin-left: auto;
+	margin-right: auto;
+	
+	padding-top: 15px;
+   
+   width: 60%;
+}
+
+.md-county { 
+			fill:cornflowerblue; 
+			stroke: rgb(0,0,0);
+			stroke-width: 1;
+			cursor: pointer;
+		}
+	
+	
+.state:hover{
+	fill-opacity:0.5;
+}
+div.tooltip {
+	color: #222;
+	background-color: #fff;
+	text-shadow: #f5f5f5 0 1px 0;
+	border-radius: 2px;
+	opacity: 1;
+	position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Wrapper{
+	width: 90%;
+	font-family: sans-serif;
+	float: right;
+}
+
+.Header{
+	margin: auto;
+	width: 95%;
+	border-style: solid;
+	border-width: 10px;
+	border-color: cornflowerblue;
+	background-color: cornflowerblue;
+	color: white;
+	font-weight: 300;
+
+}
+
+.RightText{
+	float:right;
+}
+
+.County{
+	margin:auto;
+	width: 91%;
+	border-bottom-style: double;
+	font-size: 30px;
+	color:darkblue;
+	border-bottom-color: black;
+	
+}
+
+.ChartTitle{
+	margin: auto;
+	width: 90%;
+	color:darkblue;
+	font-weight: bold;
+}
+
+#Chart0{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+.print{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#Chart1{
+	margin: 0;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#Chart2{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#Chart3{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#Chart4{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#ChartFive{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#Chart6{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#Chart7{
+	margin: auto;
+	margin-left: 0%;
+	width: 0;
+	height: 0;
+	margin-bottom: 5px;
+	visibility: hidden;
+}
+
+ #Chart17{
+	 margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#Chart18{
+	 margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+.logo{
+	width: 0;
+	visibility: collapse;
+}
+
+.ChartDiv{
+	margin:auto;
+	width:95%;
+	border-bottom-style: solid;
+	border-bottom-color:white;
+}
+
+#Chart8{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#Chart9{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#Chart10{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#Chart11{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#Chart12{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#Chart13{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#Chart14{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#Chart15{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+#Chart19{
+	margin: auto;
+	margin-left: 0%;
+	width: 100%;
+}
+
+.buttons{
+	float:right;
+}
+
+.Table {
+    position: relative;
+    bottom: 372px;
+    margin: auto;
+    width: 80%;
+}
+
+table#snap_table {
+    position: relative;
+    top: -188px;
+}
+
+table#table155 {
+    position: relative;
+    top: -141px;
+}
+
+div#Service_Participants_SNAP_Footer {
+    position: relative;
+    top: -140px;
+}
+
+table#tanf_table {
+    position: relative;
+    top: -123px;
+}
+
+p#tanf_chart_footer {
+    position: relative;
+    top: -126px;
+}
+
+th#MF {
+    position: relative;
+    left: -68px;
+}
+
+p#snap_chart_footer {
+    position: relative;
+    top: -189px;
+}
+
+
+table#table20 {
+    position: relative;
+    top: -121px;
+}
+
+div#Long_Term_Uneployment_Footer {
+    position: relative;
+    top: -117px;
+}
+
+p#NewApprenticeship_Footer {
+    position: relative;
+    top: -144px;
+    right: 21px;
+}
+
+table#table55 {
+    position: relative;
+    bottom: 146px;
+}
+
+
+
+#scrollTable{
+	margin:auto;
+	width:95%;
+	height: auto;
+	margin-bottom: 20px;
+}
+
+.HeadRow{
+	border-top-style: solid;
+	border-top-color: #5281B7;
+	border-bottom-style: solid;
+	border-bottom-color:#5281B7; 
+}
+
+.FootRow{
+	border-bottom-style: solid;
+	border-bottom-color: #5281B7;
+}
+
+.Footer{
+	float:left;
+	margin:auto;
+	display:contents;
+}
+
+.FooterPrint{
+	margin: 70%;
+}
+
+.FootLeft{
+	position: relative;
+	float:left;
+}
+
+table#pop_table {
+    position: relative;
+}
+
+table#empl_edu_gend_table {
+    position: relative;
+	bottom: -60px;
+}
+
+table#empl_vet_table {
+	position: relative;
+}
+
+
+p#empl_race_ethn_footer {
+    position: relative;
+}
+
+p#disabl_pov_chart_footer {
+    position: relative;
+    bottom: -74px;
+}
+
+
+p#empl_vet_chart_footer {
+	position: relative;
+}
+
+
+table#empl_race_ethn_table {
+    position: relative;
+}
+
+p#bottom\ part1 {
+    position: relative;
+	bottom:-55px;
+}
+
+a {
+	color: white;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table#disabl_pov_table {
+    position: relative;
+    bottom: -76px;
+}
+
+p#wda_footer {
+    position: relative;
+    bottom: 7px;
+}
+
+table#table11 {
+    position: relative;
+    bottom: 154px;
+}
+
+table#table4 {
+    position: relative;
+    top: 65px;
+}
+
+
+p#table4_footer {
+    position: relative;
+    top: 200px;
+}
+
+table#table5 {
+    position: relative;
+    bottom: -67px;
+}
+
+table#table19 {
+    position: relative;
+    top: -142px;
+}
+
+p#table5_footer {
+    position: relative;
+    top: 189px;
+}
+
+div#New_Active_Programs_Footer {
+    position: relative;
+    top: -153px;
+}
+
+p#Apprenticeship_Completers_Footer {
+    position: relative;
+    bottom: 151px;
+}
+
+table#table3 {
+    position: relative;
+    bottom: 87px;
+    left: -7px;
+}
+
+div#Chart6 {
+    position: relative;
+    height: 1082px;
+    left: 50px;
+    top: 72px;
+}
+
+
+div#Chart3 {
+    position: relative;
+    right: -66px;
+    top: 71px;
+}
+
+
+
+th{
+	text-align: center;
+	padding: 8px;
+	color: #36639E;
+} 
+
+td {
+	text-align: center;
+	padding: 8px;
+}
+
+.dimple-custom-axis-label {
+	font-size: 12pt !important;
+}
+
+.dimple-custom-axis-title {
+	font-size: 15pt !important;
+}
+
+
+text.dimple-tooltip {
+	font-size: 12pt !important;
+}
+
+.dimple-custom-legend-label{
+	font-size: 10pt !important;
+}
+
+.sidebutton{
+	margin-top: 7.5px;
+	height: 80%;
+	width: 11%;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 1;
+	background-color: gray;
+	overflow-x: hidden;
+	padding-top: 15px;
+}
+
+.button {
+	padding: 10px 10% 10px 10% !important;
+	margin: 10px 5px 0px 10px !important;
+	width: 90% !important;
+	text-decoration: none !important;
+	font-size: 13.5px !important;
+	text-align: center !important;
+	color: #2196F3 !important;
+}
+
+.dropdown-content {
+	display: none ;
+	position: absolute;
+	background-color: #404040;
+	min-width: 160px;
+	box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.5);
+	padding: 0px 15px;
+	z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+.ddl{
+	padding: 5px 1% 5px 10%;
+	margin: 10px 5px 0px 10px;
+	width: 90%;
+	text-decoration: none;
+	font-size: 12px;
+	text-align: center;
+}
+
+tr:nth-child(even){background-color: #D3DFEF}
+tr:nth-child(odd){background-color: #FFFFFF}
+td:nth-child(1){width: 25%};
+td:nth-child(2){width: 10%};
+
+@media print {
+
+	.show{
+		display: none;
+	}
+
+	.print{
+		display: inline;
+	}
+
+	.sidebutton{
+		display: none;
+	}
+
+	#Wrapper{
+		height: 100vh;
+		width: 100%;
+		font-family: sans-serif;
+		float: right;
+	}
+
+	#scrollTable{
+		margin:auto;
+		width:95%;
+		height: 95%;
+	}
+}
+
+
+#table11 td:nth-child(1){
+	font-weight: bold;
+}   
+
+#table11 td:nth-child(2){
+}   
+
+#table11 td:nth-child(3){
+	font-style: italic;
+}  
+			
+
+
+
+.picDiv {
+	width: 600px;
+	height: 600px;
+	overflow: hidden;
+	margin-left: 20%;
+}
+.picDiv img {
+	width: 325%;
+	height: 325%;
+	margin: -110% 0 0 -108.5%;
+}
