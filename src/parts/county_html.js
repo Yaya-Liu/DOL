@@ -101,7 +101,7 @@ export let counties_empl_race_ethn = `
       <table id="empl_race_ethn_table">
       </table>
     <div class="Footer">
-      <p id="empl_race_ethn_footer">Source: American Community Survey 5-Year Estimates (Date Last Accessed: January 28, 2022) <br> <br>"S" Represents suppressed counts that are less than 3.</p>
+      <p id="empl_race_ethn_footer">Source: American Community Survey 5-Year Estimates (Date Last Accessed: January 28, 2022) <br> 
     </div>
     </div>
   </div>
@@ -120,7 +120,7 @@ export let counties_empl_vet = `
       <table id="empl_vet_table">
       </table>
       <div class="Footer">
-        <p id="empl_vet_chart_footer">Source: American Community Survey 5-Year Estimates (Date Last Accessed: January 28, 2022)<br><br>"S" Represents suppressed counts that are less than 3.</p>
+        <p id="empl_vet_chart_footer">Source: American Community Survey 5-Year Estimates (Date Last Accessed: January 28, 2022)<br></p>
       </div>
     </div>
   </div>

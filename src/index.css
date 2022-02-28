@@ -490,6 +490,7 @@ table#disabl_pov_table {
 
 p#wda_footer {
     position: relative;
+    top: 50px;
     bottom: 7px;
 }
 
@@ -506,7 +507,7 @@ table#table4 {
 
 p#table4_footer {
     position: relative;
-    top: 200px;
+    top: 270px;
 }
 
 table#table5 {
@@ -521,7 +522,7 @@ table#table19 {
 
 p#table5_footer {
     position: relative;
-    top: 189px;
+    top: 235px;
 }
 
 div#New_Active_Programs_Footer {

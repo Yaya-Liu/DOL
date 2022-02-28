@@ -119,7 +119,7 @@ export let mdServiceParticipantsInSnap = `
       <div class="Footer">
         <div id="Service_Participants_SNAP_Footer">
           <p>SNAP (Supplemental Nutrition Assistance Program) is available available from 2018 to 2019. <br><br>
-          <p>Source: Jacob France Institute, accessed 5/15/2021</p>
+          <p>Source: Jacob France Institute, accessed February 12, 2022</p>
         </div>
       </div>
     </div>
