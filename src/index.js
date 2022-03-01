@@ -118,7 +118,11 @@ import 'chardin.ts/chardinjs.scss';
                   <option value='data20q3' selected="selected">2020-Q3</option>
                   <option value='data20q4'>2020-Q4</option>
 <<<<<<< HEAD
+<<<<<<< HEAD
                   <option value='data21q1'>2021-Q1</option>
+=======
+                  <option value='data21q2'>2021-Q1</option>
+>>>>>>> b60472d0fe20184ee61cdbc3476c71ab7da799ba
 =======
                   <option value='data21q2'>2021-Q1</option>
 >>>>>>> b60472d0fe20184ee61cdbc3476c71ab7da799ba
